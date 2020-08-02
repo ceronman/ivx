@@ -1,0 +1,41 @@
+[Project]
+FileName=C:\Documents and Settings\Manuel\Mis documentos\Proyecto IVX\ivx 1.1\IVX.dev
+Name=Allegro_DLL
+Use_gpp=1
+UnitCount=10
+ResFiles=C:\Documents and Settings\Manuel\Mis documentos\Proyecto IVX\ivx 1.1\rsrc.rc
+NoConsole=1
+IsDll=0
+Icon=C:\Documents and Settings\Manuel\Mis documentos\Proyecto IVX\ivx 1.1\Icono.ico
+CompilerOptions=
+IncludeDirs=
+ObjFile=-lalleg
+[Unit3]
+FileName=C:\Documents and Settings\Manuel\Mis documentos\Proyecto IVX\ivx 1.1\INI-FIN.CPP
+[Unit4]
+FileName=C:\Documents and Settings\Manuel\Mis documentos\Proyecto IVX\ivx 1.1\INTERFAZ.CPP
+FileTime=759718231
+[Unit5]
+FileName=C:\Documents and Settings\Manuel\Mis documentos\Proyecto IVX\ivx 1.1\IVXENGIN.CPP
+FileTime=759721206
+[Unit6]
+FileName=C:\Documents and Settings\Manuel\Mis documentos\Proyecto IVX\ivx 1.1\IVXENGIN.H
+FileTime=759608208
+[Unit7]
+FileName=C:\Documents and Settings\Manuel\Mis documentos\Proyecto IVX\ivx 1.1\MAIN.CPP
+FileTime=759609681
+[Unit9]
+FileName=C:\Documents and Settings\Manuel\Mis documentos\Proyecto IVX\ivx 1.1\MALOS.CPP
+FileTime=759602698
+[Unit10]
+FileName=C:\Documents and Settings\Manuel\Mis documentos\Proyecto IVX\ivx 1.1\NAVE.CPP
+[Unit2]
+FileName=C:\Documents and Settings\Manuel\Mis documentos\Proyecto IVX\ivx 1.1\GLOBALES.H
+FileTime=759650542
+[Unit8]
+FileName=C:\Documents and Settings\Manuel\Mis documentos\Proyecto IVX\ivx 1.1\MAIN.H
+FileTime=759518305
+[Unit1]
+FileName=C:\Documents and Settings\Manuel\Mis documentos\Proyecto IVX\ivx 1.1\GLOBALES.CPP
+[Unit11]
+FileTime=759517590

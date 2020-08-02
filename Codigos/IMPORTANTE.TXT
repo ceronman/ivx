@@ -1,0 +1,19 @@
+Cada uno de los archivos significa las diferentes versiones del juego para poder apreciar la evolucion del mismo, estan comprimidos en formato ZIP
+
+Version 0.1............... Febrero 20 de 2002
+Version 0.2............... Marzo 3  de 2002
+Version 0.3............... Marzo 14 de 2002
+version 0.35.............. Abril 4 de 2002
+version 0.4............... Abril 10 de 2002
+version 0.5............... Abril 16 de 2002
+version 0.6............... Abril 23 de 2002
+version 0.7............... Mayo 2 de 2002
+version 0.8............... Mayo 6 de 2002
+version 0.9............... Mayo 10 de 2002
+version 1.0............... Mayo 14 de 2002
+=========================================
+ACTUALIZACIONES
+=========================================
+version 1.1 (WINDOWS)..... Septiembre 8 de 2002
+
+ 

@@ -1,0 +1,19 @@
+Octubre 8 de 2002
+
+Invaxion Marciana IVX 1.1 
+WINDOWS VERSION.
+________________________________________
+
+Este es un sencillo juego tipo matamarcianos.
+
+Esta version del juego tambien se encuentra en otras plataformas diferentes a Windows como MS-DOS, Linux/Unix, BeOs, MacOS y QNX.
+
+Para obtener el juego para otras plataformas o para obtener versiones anteriores escriba a rdceron@emtel.net.co.
+
+Usted debio haber recibido el codigo fuente de este juego, de no ser asi notifiquelo a la direccion de correo antes mensionada y se le enviara una copia del codigo
+
+Usted puede modificar el codigo bajo los terminos de la licencia GPL
+ver "gpl.txt" para mas informacion.
+
+Disfrute el juego!!!!
+

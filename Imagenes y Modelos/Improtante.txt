@@ -1,0 +1,9 @@
+Los archivos graficos estan divididos de la siguiente manera.
+
+-Carpeta Modelos 3D: son los modelos generados con el programa de modelado 3D Strata  3d.
+
+Carpeta pcx: son todos los sprites del juego en formatos pcx y psp en 24 bits de color
+
+carpeta raw-ivx: son todos los sprites del juego en formato crudo RAW y en formato propio ivx, que se usan en las versiones anteriores a la 1.1
+
+las imagenes que hay en la propia carpeta son los renders de los modelos 3D
